@@ -1,0 +1,19 @@
+{
+    "name": "gentaracomunity/belajar-php-composer-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gentaracomunity\\BelajarPhpComposerHello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sabilmr",
+            "email": "r4089077@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
